@@ -17,9 +17,9 @@ This repository contains the implementation of a linked list data structure in C
 - **int isEmpty(HndList list);**
 - **int popFront(HndList list);**
 - **void popBack(HndList list);**
-- **Node*insertAfterNode(HndList list, Node* prevNode, valueType val);**
+- **Node*insertAfterNode(HndList list, Node*prevNode, valueType val);**
 - **Node*insertOndexNode(HndList list, int index, valueType val);**
-- **void deleteNode(HndList list, Node* pDelNode);**
+- **void deleteNode(HndList list, Node*pDelNode);**
 - **void deleteIndexNode(HndList list, int index);**
 - **void clearList(HndList list);**
 - **void destroyList(HndList list);**
